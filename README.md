@@ -11,7 +11,7 @@ Olá! Eu sou Luiz Martins, um programador e engenheiro de dados. Tenho experiên
 - **Automação e ETL**: Processos de extração, transformação e carga de dados
 - **Ferramentas de Versionamento**: Git, GitHub
 
-## Projetos Notáveis
+## Projetos Notáveis (privados)
 
 ### 1. [Gerenciamento de Suprimentos]
 Uma aplicação web para gerenciamento de suprimentos com funcionalidades de paginação e ordenação de tabelas, desenvolvida usando JavaScript e tecnologias web modernas.
@@ -21,6 +21,9 @@ Um webhook que processa mensagens do WhatsApp, convertendo texto em áudio e env
 
 ### 3. [Análise de Ocorrências de Frota]
 Um projeto para analisar ocorrências da frota, identificando períodos de quebras, piores componentes e tempo entre falhas específicas.
+
+### 4. [Portal gerenciamento interno]
+Uma aplicação web para gerenciamento de relatórios, controle de custos, pré-processamento de dados, administração de utilidades e automação de rotinas empresariais, com backend em Python utilizando Flask, rodando com HTTPS e autenticação robusta.
 
 ## Experiência Profissional
 
