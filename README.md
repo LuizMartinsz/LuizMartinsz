@@ -14,7 +14,7 @@ Olá! Eu sou Luiz Martins, um programador e engenheiro de dados. Tenho experiên
 ## Projetos Notáveis (privados)
 
 ### 1. [Gerenciamento de Suprimentos]
-Uma aplicação web para gerenciamento de suprimentos com funcionalidades de paginação e ordenação de tabelas, desenvolvida usando JavaScript e tecnologias web modernas.
+Uma aplicação web para gerenciamento de suprimentos com funcionalidades de paginação e ordenação de tabelas, desenvolvida usando JavaScript e regras de negocio especificas.
 
 ### 2. [Webhook para WhatsApp]
 Um webhook que processa mensagens do WhatsApp, convertendo texto em áudio e enviando respostas de áudio utilizando a API do Facebook Graph e a biblioteca gTTS.
@@ -24,6 +24,9 @@ Um projeto para analisar ocorrências da frota, identificando períodos de quebr
 
 ### 4. [Portal gerenciamento interno]
 Uma aplicação web para gerenciamento de relatórios, controle de custos, pré-processamento de dados, administração de utilidades e automação de rotinas empresariais, com backend em Python utilizando Flask, rodando com HTTPS e autenticação robusta.
+
+### 5. [Otimizar integrações ERP]
+Ajuste de rotinas e rotas de integração entre sistemas e o ERP, garantindo escalabilidade e confiabilidade ao processo. Funcionalidades de logs detalhados e monitoramento contínuo de disponibilidade ("uptime") foram implementadas.
 
 ## Experiência Profissional
 
@@ -49,4 +52,4 @@ Uma aplicação web para gerenciamento de relatórios, controle de custos, pré-
 
 ---
 
-Obrigado por visitar meu perfil no GitHub! Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para qualquer dúvida ou colaboração.
+Obrigado por visitar meu perfil no GitHub! Sinta-se à vontade para entrar em contato comigo para qualquer dúvida ou colaboração.
