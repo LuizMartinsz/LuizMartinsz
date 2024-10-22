@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá! Eu sou Luiz Martins, um programador e engenheiro de dados. Tenho experiência em desenvolvimento de aplicações web, gerenciamento de dados e otimização de processos internos. Atualmente, trabalho como CLT e estou sempre em busca de novos desafios e oportunidades para aprender e crescer na minha carreira.
+Olá! Eu sou Luiz Martins, Especialista de dados e programador. Tenho experiência em desenvolvimento de aplicações web, gerenciamento de dados, avaliação de grandes conjuntos para extração de insights e otimização de processos. Atualmente, trabalho como CLT e estou sempre em busca de novos desafios e oportunidades para aprender e crescer na minha carreira.
 
 ## Habilidades Técnicas
 
@@ -10,6 +10,7 @@ Olá! Eu sou Luiz Martins, um programador e engenheiro de dados. Tenho experiên
 - **Desenvolvimento Web**: HTML, CSS, JavaScript, APIs RESTful
 - **Automação e ETL**: Processos de extração, transformação e carga de dados
 - **Ferramentas de Versionamento**: Git, GitHub
+- **Ferramentas de Visualização**: PowerBI, Excel
 
 ## Projetos Notáveis (privados)
 
