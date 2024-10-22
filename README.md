@@ -29,6 +29,9 @@ Uma aplicação web para gerenciamento de relatórios, controle de custos, pré-
 ### 5. [Otimizar integrações ERP]
 Ajuste de rotinas e rotas de integração entre sistemas e o ERP, garantindo escalabilidade e confiabilidade ao processo. Funcionalidades de logs detalhados e monitoramento contínuo de disponibilidade ("uptime") foram implementadas.
 
+### 6. [Otimizar Processos]
+Identificação de atividades manuais ou sem ganhos significativos em processos, visando otimizar tempo e aumentar a eficiência. A principal rotina aprimorada resultou na realocação de 3 colaboradores, que antes executavam uma tarefa específica, para áreas de análise, tornando o processo totalmente automatizado e liberou outros 3 colaboradores de atividades repetivas de envios de informações por processos de RPA. 
+
 ## Experiência Profissional
 
 ### Engenheiro de Dados / Programador 
