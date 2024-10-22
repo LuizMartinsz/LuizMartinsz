@@ -34,7 +34,7 @@ Identificação de atividades manuais ou sem ganhos significativos em processos,
 
 ## Experiência Profissional
 
-### Engenheiro de Dados / Programador 
+### Especialista de Dados / Programador 
 **Período**: Atual
 - Responsável pelo desenvolvimento e manutenção de processos ETL
 - Otimização de consultas SQL para garantir eficiência e performance
