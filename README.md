@@ -32,6 +32,10 @@ Ajuste de rotinas e rotas de integração entre sistemas e o ERP, garantindo esc
 ### 6. [Otimizar Processos]
 Identificação de atividades manuais ou sem ganhos significativos em processos, visando otimizar tempo e aumentar a eficiência. A principal rotina aprimorada resultou na realocação de 3 colaboradores, que antes executavam uma tarefa específica, para áreas de análise, tornando o processo totalmente automatizado e liberou outros 3 colaboradores de atividades repetivas de envios de informações por processos de RPA. 
 
+### 7. [Estação meteorológica]
+Desenvolvimento, criação e codificação de uma estão meteorológica usando arduino e esp32 para coleta autonoma de chuva, velocidade e direção do vento, temperatura e umidade. Dados são coletados e enviados a um banco de dados onde alimenta uma pagina web para visualização e estudos.
+
+
 ## Experiência Profissional
 
 ### Especialista de Dados / Programador 
