@@ -1,63 +1,72 @@
-## Sobre Mim
+# Luiz Martins | Transformando dados em soluções de automação e insights de negócio
 
-Olá! Eu sou Luiz Martins, Especialista de dados e programador. Tenho experiência em desenvolvimento de aplicações web, gerenciamento de dados, avaliação de grandes conjuntos para extração de insights e otimização de processos. Atualmente, trabalho como CLT e estou sempre em busca de novos desafios e oportunidades para aprender e crescer na minha carreira.
+<br>
 
-## Habilidades Técnicas
+## 👋 Sobre Mim
 
-- **Linguagens de Programação**: Python, JavaScript, SQL
-- **Frameworks e Bibliotecas**: React, Node.js, Pandas, NumPy
-- **Ferramentas de Banco de Dados**: MySQL, PostgreSQL, OracleSQL
-- **Desenvolvimento Web**: HTML, CSS, JavaScript, APIs RESTful
-- **Automação e ETL**: Processos de extração, transformação e carga de dados
-- **Ferramentas de Versionamento**: Git, GitHub
-- **Ferramentas de Visualização**: PowerBI, Excel
+Sou um desenvolvedor apaixonado por otimizar processos e extrair o máximo de valor dos dados. Com experiência sólida em backend utilizando Python e Flask, e um profundo conhecimento em SQL para bancos de dados Oracle e PostgreSQL, meu foco é criar ferramentas que não apenas funcionam, mas que são eficientes, escaláveis e fáceis de usar. Tenho um interesse especial na intersecção entre hardware e software, explorando projetos de IoT com M5StackC.
 
-## Projetos Notáveis (privados)
+<br>
 
-### 1. [Gerenciamento de Suprimentos]
-Uma aplicação web para gerenciamento de suprimentos com funcionalidades de paginação e ordenação de tabelas, desenvolvida usando JavaScript e regras de negocio especificas.
+## 🚀 Minhas Habilidades
 
-### 2. [Webhook para WhatsApp]
-Um webhook que processa mensagens do WhatsApp, convertendo texto em áudio e enviando respostas de áudio utilizando a API do Facebook Graph e a biblioteca gTTS.
+<p align="left">
+  <strong>Linguagens:</strong><br>
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=progate&logoColor=white" alt="SQL"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a>
+</p>
+<p align="left">
+  <strong>Backend e Bancos de Dados:</strong><br>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> </a>
+  <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> </a>
+  <a href="https://www.oracle.com/database/" target="_blank"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/> </a>
+</p>
+<p align="left">
+  <strong>Análise de Dados e Automação:</strong><br>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> </a>
+  <a href="https://openpyxl.readthedocs.io/en/stable/" target="_blank"> <img src="https://img.shields.io/badge/Openpyxl-187300?style=for-the-badge&logo=python&logoColor=white" alt="Openpyxl"/> </a>
+  <a href="https://www.reportlab.com/" target="_blank"> <img src="https://img.shields.io/badge/Reportlab-A80000?style=for-the-badge&logo=python&logoColor=white" alt="Reportlab"/> </a>
+</p>
+<p align="left">
+  <strong>Ferramentas, Sistemas e Plataformas:</strong><br>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+  <a href="https://www.jdedwards.com/" target="_blank"> <img src="https://img.shields.io/badge/JD Edwards-D92E28?style=for-the-badge&logo=oracle&logoColor=white" alt="JD Edwards"/> </a>
+  <a href="https://m5stack.com/" target="_blank"> <img src="https://img.shields.io/badge/IoT / M5Stack-FF6F00?style=for-the-badge&logo=espressif&logoColor=white" alt="IoT"/> </a>
+  <a href="https://en.wikipedia.org/wiki/API" target="_blank"> <img src="https://img.shields.io/badge/APIs-007ACC?style=for-the-badge&logo=icloud&logoColor=white" alt="APIs"/> </a>
+</p>
+<p align="left">
+  <strong>Business Intelligence & Automação (Microsoft Power Platform):</strong><br>
+  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> </a>
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank"> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/> </a>
+  <a href="https://powerapps.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/Power Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/> </a>
+  <a href="https://powerautomate.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/Power Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/> </a>
+</p>
 
-### 3. [Análise de Ocorrências de Frota]
-Um projeto para analisar ocorrências da frota, identificando períodos de quebras, piores componentes e tempo entre falhas específicas.
+<br>
 
-### 4. [Portal gerenciamento interno]
-Uma aplicação web para gerenciamento de relatórios, controle de custos, pré-processamento de dados, administração de utilidades e automação de rotinas empresariais, com backend em Python utilizando Flask, rodando com HTTPS e autenticação robusta.
+## 🔧 Projetos em Destaque
 
-### 5. [Otimizar integrações ERP]
-Ajuste de rotinas e rotas de integração entre sistemas e o ERP, garantindo escalabilidade e confiabilidade ao processo. Funcionalidades de logs detalhados e monitoramento contínuo de disponibilidade ("uptime") foram implementadas.
+Como parte destes projetos foi desenvolvida em ambiente corporativo ou como protótipos pessoais, o código-fonte é confidencial.
 
-### 6. [Otimizar Processos]
-Identificação de atividades manuais ou sem ganhos significativos em processos, visando otimizar tempo e aumentar a eficiência. A principal rotina aprimorada resultou na realocação de 3 colaboradores, que antes executavam uma tarefa específica, para áreas de análise, tornando o processo totalmente automatizado e liberou outros 3 colaboradores de atividades repetivas de envios de informações por processos de RPA. 
+| Projeto | Descrição | Tecnologias Principais |
+|---|---|---|
+| 📌 **Portal Flask com Atualizações Automáticas** | Portal web que exibe dados de produção e atualiza painéis automaticamente, evitando sobrecarga no banco de dados através de consultas inteligentes e cache. | `Python`, `Flask`, `SQLAlchemy`, `JavaScript`, `PostgreSQL` |
+| 📌 **Automação de Ordem de Serviço** | Solução de ETL que automatiza o processamento de ordens de serviço, extraindo dados do sistema JD Edwards e gerando relatórios em PDF. | `Python`, `Pandas`, `cx_Oracle`, `Reportlab`, `JD Edwards` |
+| 📌 **Análise de Textos no Almoxarifado** | Análise de dados textuais em ordens de serviço para identificar padrões de falhas, otimizando a gestão de estoque de peças de reposição. | `Python`, `Pandas`, `SQL`, `Text Mining` |
+| 📌 **Estação Meteorológica com PCB Customizada** | Protótipo completo de estação meteorológica, incluindo o design da placa de circuito impresso (PCB), programação de microcontroladores e envio dos dados para uma API. | `C++ (Arduino/ESP32)`, `IoT`, `API Integration`, `Hardware (PCB Design)` |
+| 📌 **Indicadores de Utilização de Equipamentos** | Análise de dados para gerar indicadores de performance, identificando gargalos e oportunidades de otimização na utilização de equipamentos industriais. | `SQL (queries complexas)`, `Python`, `Pandas`, `Openpyxl` |
 
-### 7. [Estação meteorológica]
-Desenvolvimento, criação e codificação de uma estão meteorológica usando arduino e esp32 para coleta autonoma de chuva, velocidade e direção do vento, temperatura e umidade. Dados são coletados e enviados a um banco de dados onde alimenta uma pagina web para visualização e estudos.
+<br>
 
 
-## Experiência Profissional
+## 📫 Como me Encontrar
 
-### Especialista de Dados / Programador 
-**Período**: Atual
-- Responsável pelo desenvolvimento e manutenção de processos ETL
-- Otimização de consultas SQL para garantir eficiência e performance
-- Desenvolvimento de scripts para automação de processos manuais
-- Desenvolvimento de aplicações web e APIs RESTful
-- Integração de sistemas e automação de tarefas repetitivas
-
-## Interesses Pessoais
-
-- **Academia**: Treino regularmente e estou sempre buscando melhorar meu condicionamento físico
-- **Tecnologia**: Fascinado por novas tecnologias e tendências em desenvolvimento de software
-- **Automação**: Interesse em automação de processos para aumentar eficiência e produtividade
-
-## Contato
-
-- **Email**: [luizmr16@gmail.com]
-- **LinkedIn**: [linkedin.com/in/luiz-martins](https://linkedin.com/in/luiz-martins)
-- **GitHub**: [[github.com/luiz-martins](https://github.com/LuizMartinsz)]
-
----
-
-Obrigado por visitar meu perfil no GitHub! Sinta-se à vontade para entrar em contato comigo para qualquer dúvida ou colaboração.
+<p align="left">
+  <a href="https://www.linkedin.com/in/l-martins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:luizmr16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
