@@ -55,6 +55,7 @@ Como parte destes projetos foi desenvolvida em ambiente corporativo ou como prot
 
 | Projeto | Descrição | Tecnologias Principais |
 |---|---|---|
+| 📌 **Plataforma Coda Martins** | Plataforma de ensino com tutor de IA interativo (Gemini) e chatbot de Q&A para cursos. Arquitetura modular e escalável com deploy em Google Cloud e Docker. [**Visite a plataforma**](https://www.codamartins.com.br/) | `Python`, `Flask`, `Gemini`, `LangChain`, `Google Cloud`, `Docker` |
 | 📌 **Portal Flask com Atualizações Automáticas** | Portal web que exibe dados de produção e atualiza painéis automaticamente, evitando sobrecarga no banco de dados através de consultas inteligentes e cache. | `Python`, `Flask`, `SQLAlchemy`, `JavaScript`, `PostgreSQL` |
 | 📌 **Automação de Ordem de Serviço** | Solução de ETL que automatiza o processamento de ordens de serviço, extraindo dados do sistema JD Edwards e gerando relatórios em PDF. | `Python`, `Pandas`, `cx_Oracle`, `Reportlab`, `JD Edwards` |
 | 📌 **Análise de Textos no Almoxarifado** | Análise de dados textuais em ordens de serviço para identificar padrões de falhas, otimizando a gestão de estoque de peças de reposição. | `Python`, `Pandas`, `SQL`, `Text Mining` |
